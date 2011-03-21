@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.no-ip.bca.jwebunit</groupId>
+  <artifactId>jwebunit-scala</artifactId>
+  <versioning>
+    <latest>0.1-SNAPSHOT</latest>
+    <release></release>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110320072412</lastUpdated>
+  </versioning>
+</metadata>
